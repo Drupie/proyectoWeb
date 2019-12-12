@@ -1,0 +1,5 @@
+<?php 
+
+$conexion=mysqli_connect("localhost","root","","curso")or die("problemas en la conexiòn");
+
+?>
